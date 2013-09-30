@@ -1,0 +1,16 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "description": "Don't let your friends know when you've read their message or are typing one!",
+   "manifest_version": 2,
+   "name": "Facebook Messenger Ninja",
+   "permissions": [ "webRequest", "webRequestBlocking", "*://www.facebook.com/ajax/*" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   }
+}
