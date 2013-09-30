@@ -3,3 +3,6 @@ Facebook Ninja is a very simple Chrome extension (essentially one line of code),
 
 ## Notes
 Using Facebook Ninja will leave all messages unread, meaning your "unread messages" count will not reset to 0.
+
+## Site
+https://chrome.google.com/webstore/detail/facebook-messenger-ninja/npmfbeokdopjomomlboejmjdgoiojpka
